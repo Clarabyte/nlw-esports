@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](https://github.com/ClaraBytes/nlw-esports-explorer/blob/main/assets/preview.png)
+![preview](https://raw.githubusercontent.com/Clarabyte/nlw-esports/main/assets/preview.png)
 
 > Trilha Explorer
 
